@@ -27,7 +27,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternately, you can select **Reference a file** and the file from the dropdown list once it is available in OneDrive.
    
-1. Select **Generate**.
+1. Select **Send** to execute the prompt.
 
 1. Review the drafted content and select **Keep it**.
 
