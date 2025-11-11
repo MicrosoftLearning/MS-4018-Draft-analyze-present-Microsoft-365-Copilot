@@ -22,11 +22,15 @@ To get an idea of market trends, you must first understand  the overall performa
 
     +++Summarize the dataset and provide an overview of the key metrics.+++
 
-    Copilot responds with both a table that you can add to a new sheet, and a reply that details the key metrics.
+    Copilot responds with a detailed set of important takeaways, essentially an executive summary, of the data. It shows patterns and interpretations of the data, and recommended next steps. From this response, you can prompt Copilot to
+
+    +++Create a table showing the key patterns in the data.+++
+
+    Copilot creates a table containing an additional column that shows key patterns.
 
 1. Select **Add to a new sheet** to include this data in your Excel workbook.
 
-1. Review the table. When you're done, select **Go back to data** to return to Sheet 1.
+1. Review the table. When you're done, return to Sheet 1.
 
 #### Exercise 2 - Identify sales trends
 
@@ -38,15 +42,9 @@ As a sales manager, you need to identify trends in the sales data to make inform
 
     +++Show a line chart of Total Chai Sales (units) over the months.+++
 
-1. Review Copilot's response, and if you want, add the PivotChart to a new sheet.
+1. Review Copilot's response, and if you want, add the line chart to a new sheet.
 
-1. If you added a new PivotChart, review the chart then select **Go back to data** to return to Sheet 1.
-   
-1. To get a quick view of the months with the most successful sales, enter the following prompt:
-
-    +++Highlight the three months with the highest total sales.+++
-
-1. **Apply** the conditional formatting rule. Copilot highlights the cells as directed.
+1. If you added the line chart, review the chart then return to Sheet 1.
 
 #### Exercise 3 - Compare product sales
 
@@ -60,8 +58,8 @@ To optimize your product offerings, you need to compare the sales of different c
 
 1. Copilot displays the bar chart. Select **Add to a new sheet**.
 
-1. Once you've reviewed the bar chart results, select **Go back to data** to return to Sheet 1.
-   
+1. Once you've reviewed the bar chart results, return to Sheet 1.
+
 Summer months can see a wide variance of sales. To understand what type of tea is selling best, you can ask Copilot to determine which product category performed better overall by entering the following prompt:
 
    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
@@ -74,9 +72,10 @@ Understanding the total sales is crucial for evaluating the success of your sale
 
 1. Prompt Copilot with:
 
-    +++Calculate the sales for each quarter and add it as a new column.+++
+    +++Calculate the total sales per quarter.+++
 
-1. Select **Insert columns**.
+1. Select **Add to new sheet**.
+1. Review the total sales, then return to Sheet 1.
 
 #### Exercise 5 - Analyze social media engagement
 
@@ -88,9 +87,9 @@ In today's digital age, social media engagement can significantly impact sales. 
 
     +++Identify any correlations between Online Searches for Chai and Total Chai Sales (units).+++
 
-    Copilot generates a chart showing trends. Additionally, Copilot responds with text indicating there's a high correlation, allowing you instant insight to complicated sales data.
+    Copilot generates a chart showing trends. Additionally, Copilot responds with detailed text indicating the correlation results and discussing practical implications allowing you instant insight to complicated sales data.
 
-1. Select **Add to sheet** to include these insights to your table.
+1. Select **Add to new sheet** to include the visual insights to your table. Return to Sheet 1.
 
 #### Exercise 6 - Generate insights
 
