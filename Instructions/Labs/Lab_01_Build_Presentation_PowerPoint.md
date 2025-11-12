@@ -87,7 +87,7 @@ As you're reviewing the presentation, you may decide the text Copilot generated 
 
 As you're reviewing the presentation, you may find that the topics in your presentation need to be more clearly identified. You can use Copilot in PowerPoint to inject this clarity.
 
-1. In the Copilot pane, enter the following prompt:
+1. In the Copilot Chat pane, enter the following prompt:
 
     +++Give me tips to improve my presentation, general and slide by slide+++
 
