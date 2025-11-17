@@ -14,7 +14,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Open PowerPoint using the desktop application or from your browser at [powerpoint.new](https://powerpoint.new) and start a new presentation.
 
-1. Select the **Copilot** icon, then use Copilot to generate a draft presentation using the following prompt:
+1. Select the **Copilot** icon you can find in the empty slide of the new presentation, then use Copilot to generate a draft presentation using the following prompt:
 
     +++Create a presentation about Contoso's Chai Tea based on+++
 
