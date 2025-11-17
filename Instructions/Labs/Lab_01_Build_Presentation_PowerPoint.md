@@ -48,6 +48,9 @@ Because this presentation will be given both in-person and virtually, let's give
 
     Now, you've got a great way to start a conversation among your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
+    > [!NOTE]
+    > If Copilot is unable to add the slide to your presentation, follow the instructions provided and insert it manually.
+
 #### Exercise 3 - Insert an image
 
 While Copilot includes images as it creates slides, you may want to add or edit an image to be more specific to your presentation. You can ask Copilot to include an image from your approved corporate library, provided your administrator has set the appropriate configurations, or generate an image based on an idea you have.
