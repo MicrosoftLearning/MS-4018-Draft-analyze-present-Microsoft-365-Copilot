@@ -78,13 +78,13 @@ As you're reviewing the presentation, you may decide the text Copilot generated 
 
 1. Navigate to the slide containing the text you may want to edit.
 
-1. In the Copilot pane, enter the following prompt:
+1. Select the textbox and click on the Copilot icon to rewrite it
+
+1. In the Rewrite popup, enter the following prompt:
 
     +++Edit this text to make it more conversational.+++
 
-1. Copy and paste the text you want to edit in the Copilot prompt dialog, then select **Send**.
-
-1. Review the suggestions provided by Copilot, then cut and paste it onto the slide, and make any necessary adjustments.
+1. Review the suggestion provided by Copilot, then click on **Keep it** to confirm.
 
 #### Exercise 5 - Organize the presentation
 
