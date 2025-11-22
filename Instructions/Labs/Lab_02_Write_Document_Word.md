@@ -11,13 +11,11 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 [Market Analysis Report for Mystic Spice Premium Chai Tea.docx](https://go.microsoft.com/fwlink/?linkid=2268826)
 
-
-
 #### Exercise 1 - Draft your content
 
 Let's create a project report using the Market Analysis you've already gathered. Then, we can edit this file to get the content we need for our report.
 
-1. Open a new Word document.
+1. Open a new Word document from your browser at [word.new](https://word.new).
 
 1. Select the on-canvas **Copilot** experience at the top of the blank document.
 
@@ -25,9 +23,9 @@ Let's create a project report using the Market Analysis you've already gathered.
 
     +++Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource.+++
 
-1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternately, you can select **Reference a file** and the file from the dropdown list once it is available in OneDrive.
-   
-1. Select **Generate**.
+1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternately, you can select **Add content** and the file from the dropdown list once it is available in OneDrive.
+
+1. Select the right arrow to submit your prompt and **Generate** the response.
 
 1. Review the drafted content and select **Keep it**.
 
@@ -54,7 +52,9 @@ While the content in your document may be accurate, consider its readability. Wo
 
 Let's see this transformation in action.
 
-1. Ask Copilot to +++Add a list of project milestones and their deadlines+++ using the on-canvas Copilot option.
+1. Place your cursor at the end of the document.
+
+1. Ask Copilot to +++Add a list of project milestones and their deadlines+++ using the on-canvas Copilot option. Select **Generate**.
 
 1. Select **Keep it** to add the section to your Project Plan.
 
@@ -68,7 +68,7 @@ Let's see this transformation in action.
 
 1. Select **Keep it** to insert the table into your document.
 
-1. Review the table format and make any necessary adjustments.
+1. Review the table format and make any necessary adjustments. You can then delete the bulleted list from the Project Milestones and Deadlines section.
 
 #### Exercise 3 - Summarize your document
 
@@ -78,12 +78,12 @@ As you complete your document, you want to ensure that your key points are prese
 
     +++Summarize this document. Highlight the top three points made.+++
 
-1. Review the generated summary, and select **Insert** if you want to include the entire summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
+1. Review the generated summary, and select **Add to doc** (the plus sign) if you want to include the entire summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
 
 > [!IMPORTANT]
 > The text Copilot generates is inserted at your cursor's location in the document. Make sure you have navigated to the end of the document before you select to insert the content.
 
-You can then manually make adjustments to the text, or highlight the summary paragraph and use Copilot to **Auto Rewrite**  as needed. You can also use this summary as the starting point to a Teams or Outlook message when you share your project report with your stakeholders.
+You can manually make adjustments to the text, or highlight the summary content and use Copilot to **Auto Rewrite**  as needed. You can also use this summary as the starting point to a Teams or Outlook message when you share your project report with your stakeholders.
 
 Save your document for future reference. You're ready to share for review, or you can use this document as the starting point for a PowerPoint presentation.
 

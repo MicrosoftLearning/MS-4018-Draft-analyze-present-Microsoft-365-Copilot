@@ -4,17 +4,18 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 #### Exercise 1 - Write an engaging message to introduce your idea
 
-1. Open Microsoft Teams by navigating to the following URL: [teams.microsoft.com](https://teams.microsoft.com) or through the desktop application.
+1. Open Microsoft Teams by navigating to the following URL: [teams.cloud.microsoft](https://teams.cloud.microsoft).
 
 1. To start, create a new Team in your team's chat for this conversation. Select **New Team** from the Chat dropdown menu.
 
     - Add the Team:  +++People and Culture+++
     - Description: leave blank
     - Team Type: **Private**
-    - Channel name: +++Contoso Connect+++
-    - Add members: select **Skip**
+    - First channel name: +++Contoso Connect+++
 
-1. Select **Start a post** to open the chat window.
+1. Select **Generate**, then when prompted to add members select **Skip**.
+
+1. Select **Post in channel** to open the message window.
 
 1. Write your message in the box at the bottom of the chat or channel. Copy and paste the following text into the dialog box:
     Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?
@@ -27,7 +28,7 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 1. Select **Adjust** then select from the options Copilot presents to edit and update your message. You can customize the message if it's still not right.
 
-1. Select **Custom** from the **Adjust** option. Try custom tones like +++instructive+++ or +++engaging+++.
+1. Select **Custom** from the **Adjust** option. Try custom tones like +++instructive+++ or +++engaging+++. Select the right arrow button to submit the change.
 
 1. Select **Replace** when you're satisfied with the new message. If you selected a partial section, only that text updates.
 
@@ -45,23 +46,17 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
 1. Ask Copilot to suggest the best time for the meeting by entering the following prompt:
 
-    +++Schedule a meeting next week based on my availability.+++
+    +++Draft a meeting invitation to discuss the upcoming product launch, review the project timeline, and assign tasks.+++
 
-1. Review the suggested time.
-
-1. Select **Edit** to add context to the meeting invite.
-
-1. Select the **Draft with Copilot** option and enter the following prompt:
-
-    +++to discuss the upcoming product launch, review the project timeline, and assign tasks.+++
-
-    Once done, select **Generate** or press enter on your keyboard.
-
-1. Copilot will create a draft of the meeting invite. Review the suggestion but don't select **Keep it**. Instead, enter the following prompt:
+1. Copilot creates a draft of the meeting invite. Review the suggestion but don't select **Keep it**. Instead, enter the following prompt:
 
     +++Rewrite this email in a professional tone.+++
 
-1. Review Copilot's suggestion and select to **Keep it**.
+1. Review Copilot's suggestion. Once you are happy with the results, prompt Copilot to:
+
+    +++Schedule this meeting based on my availability next week.+++
+
+1. Select the time that works best for you. **Confirm** based on the details in Copilot's response. Copilot adds the meeting to your calendar. You can then access the meeting details from you calendar and invite attendees, turn on the Facilitator for the meeting, and allow Copilot to reschedule the meeting if conflicts arise.
 
 By using Copilot in Team's capabilities, you can effortlessly draft, rewrite, and adjust messages, gather insights from team chats, and schedule meetings efficiently. Now, you can confidently use these tools to streamline your workflow and achieve your collaboration goals with ease.
 
