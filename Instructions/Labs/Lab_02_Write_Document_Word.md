@@ -15,7 +15,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 Let's create a project report using the Market Analysis you've already gathered. Then, we can edit this file to get the content we need for our report.
 
-1. Open a new Word document from your browser at [word.new](https://word.new).
+1. Open a new Word document from your browser by entering +++https://word.new+++.
 
 1. Select the on-canvas **Copilot** experience at the top of the blank document.
 

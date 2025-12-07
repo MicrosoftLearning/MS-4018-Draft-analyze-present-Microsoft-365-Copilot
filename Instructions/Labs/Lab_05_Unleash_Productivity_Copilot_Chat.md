@@ -9,9 +9,9 @@ Imagine you're interviewing for position at Contoso, a mid-sized media-driven co
 
 Use Copilot Chat in Teams to gather some insights about the interviewer and their role. This research helps you get a better sense of who you'll be speaking with and what their responsibilities are. It's always good to know a bit about the person on the other side of the table!
 
-1. Open Microsoft Teams by navigating to the following URL: [teams.microsoft.com](https://teams.microsoft.com) or through the desktop application.
+1. Open Microsoft Teams by navigating to the following URL +++https://teams.microsoft.com+++.
 
-1. Select the Copilot Chat icon on the left side of the screen.
+1. Select the **Copilot Chat** icon on the left side of the screen.
 
 1. Make sure the toggle at the top of the screen is set to **Web**.
 
@@ -19,7 +19,7 @@ Use Copilot Chat in Teams to gather some insights about the interviewer and thei
 
     +++Find information about [Interviewer's Name] and their role at [Contoso].+++
 
-    **Note:** replace [Interviewer's Name] with the name of the person you're interviewing with, and [Contoso] with the name of the company.
+    **Note:** Replace [Interviewer's Name] with the name of the person you're interviewing with, and [Contoso] with the name of the company.
 
 1. Review the information provided by Copilot.
 
@@ -29,7 +29,7 @@ Now, let's use Copilot Chat to research the department you're applying to. Imagi
 
 1. In the same chat with Copilot, enter the following prompt:
 
-    +++Provide me with an overview of [Contoso]. can you tell me anything about their [research] department?+++
+    +++Provide me with an overview of [Contoso]. Can you tell me about their [research] department?+++
 
 1. Review the information provided by Copilot.
 
@@ -51,7 +51,7 @@ Now that you've got an idea of potential questions, you can consider your person
 
 1. In the same Copilot Chat, prompt Copilot to
 
-    +++Draft answers for the following questions: [copy and paste list of questions here].+++
+    +++Draft answers for the questions in the previous response.+++
 
     Because Copilot Chat is an iterative experience, it considers the context of previous chat interactions in the same window.
 
@@ -68,6 +68,9 @@ These answers are great, and you're feeling confident before your interview. Now
     Copilot generates a new Word document titled **FAQ Document**.
 
 1. Open this document to review.
+
+    > [!NOTE]
+    > If prompted, log in using the same credentials you provided when you logged in to OneDrive.
 
 1. Enable editing to verify and updatae the document as necessary.
 

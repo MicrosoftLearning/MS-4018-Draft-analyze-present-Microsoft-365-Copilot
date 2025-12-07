@@ -14,7 +14,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
 
-1. Open a **Microsoft Edge** browser and go to [Onedrive](https://onedrive.live.com/login/). Enter the credentials provided to log in.
+1. Open a **Microsoft Edge** browser and go to `[Onedrive](https://onedrive.live.com/login/)`. Close the **Welcome** screen, clear the **Search** box, then select the OneDrive icon to enter the credentials provided to log in.
 
 1. Select **Your OneDrive is ready**, then select **Create or upload > Files upload**.
 
@@ -22,7 +22,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 1. Select all files within the **MS-4018 ResourceFiles** folder, then select **Open**.
 
-1. When the upload is complete, you should see **Uploaded 3 items to My files** in the bottom center of the screen.
+1. When the upload is complete, you should see **Uploaded 3 items to Documents** in the bottom center of the screen.
 
 ### Referencing files
 

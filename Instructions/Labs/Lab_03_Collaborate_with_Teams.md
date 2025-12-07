@@ -4,7 +4,7 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 #### Exercise 1 - Write an engaging message to introduce your idea
 
-1. Open Microsoft Teams by navigating to the following URL: [teams.cloud.microsoft](https://teams.cloud.microsoft).
+1. Open Microsoft Teams by navigating to the following URL +++https://teams.cloud.microsoft+++.
 
 1. To start, create a new Team in your team's chat for this conversation. Select **New Team** from the Chat dropdown menu.
 
@@ -13,12 +13,13 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
     - Team Type: **Private**
     - First channel name: +++Contoso Connect+++
 
-1. Select **Generate**, then when prompted to add members select **Skip**.
+1. Select **Create**, then when prompted to add members select **Skip**.
 
 1. Select **Post in channel** to open the message window.
 
 1. Write your message in the box at the bottom of the chat or channel. Copy and paste the following text into the dialog box:
-    Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?
+
+   +++Hi Team! I've been thinking about Contoso Connect, and how we can make the product launch more exciting for our customers. I have a couple of ideas, and want to hear more from each of you. What do you think would make our customers excited and ready to work with Connect?+++
 
 1. Before you post the message, select the **Rewrite with Copilot** icon at the bottom of the message box.
 
@@ -40,7 +41,7 @@ The team receives your message and is excited to contribute! Everyone contribute
 
 You now want to schedule a meeting to brainstorm some feedback with your team. You can use Copilot in Outlook to find the best time based on your team's availability, and draft the body of the meeting invite to include the key points you prompted Copilot to answer from your meeting chat.
 
-1. Open Microsoft Outlook from your browser [outlook.office.com](https://outlook.office.com) or desktop application.
+1. Open Microsoft Outlook from your browser by entering +++https://outlook.office.com+++.
 
 1. Select the **Copilot** icon from the **Home** ribbon to open the Copilot pane.
 
@@ -48,15 +49,13 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
     +++Draft a meeting invitation to discuss the upcoming product launch, review the project timeline, and assign tasks.+++
 
-1. Copilot creates a draft of the meeting invite. Review the suggestion but don't select **Keep it**. Instead, enter the following prompt:
+1. Copilot creates a draft of the meeting invite. Review the suggestion then enter the following prompt:
 
     +++Rewrite this email in a professional tone.+++
 
-1. Review Copilot's suggestion. Once you are happy with the results, prompt Copilot to:
+1. Review Copilot's suggestion and select to **Keep it**.
 
-    +++Schedule this meeting based on my availability next week.+++
-
-1. Select the time that works best for you. **Confirm** based on the details in Copilot's response. Copilot adds the meeting to your calendar. You can then access the meeting details from you calendar and invite attendees, turn on the Facilitator for the meeting, and allow Copilot to reschedule the meeting if conflicts arise.
+After you've created your draft, you can continue to prompt Copilot assist you in scheduling the meeting based on your availability next week. Copilot suggests several time slots. You can select the time that best works.  Copilot adds the meeting to your calendar. You can then access the meeting details from you calendar and invite attendees, turn on the Facilitator for the meeting, and allow Copilot to reschedule the meeting if conflicts arise.
 
 By using Copilot in Team's capabilities, you can effortlessly draft, rewrite, and adjust messages, gather insights from team chats, and schedule meetings efficiently. Now, you can confidently use these tools to streamline your workflow and achieve your collaboration goals with ease.
 
