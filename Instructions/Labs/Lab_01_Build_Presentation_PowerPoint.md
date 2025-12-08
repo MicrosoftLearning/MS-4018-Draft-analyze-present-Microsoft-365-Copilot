@@ -12,7 +12,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 #### Exercise 1 - Create a new presentation based on a Word document
 
-1. Open PowerPoint from your browser by entering +++https://powerpoint.new+++ and start a new presentation.
+1. Open PowerPoint from your browser by opening the Edge browser and entering +++https://powerpoint.new+++. Start a new presentation.
 
 1. Select the **Copilot** on-screen option, located on the top-left corner of the empty slide, then select **Create a new presentation with file** from the menu to generate a draft presentation.
 

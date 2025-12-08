@@ -12,9 +12,9 @@ To ensure that these files are accessible later on by Microsoft 365 Copilot, we'
 
 Follow the steps below to upload all files needed to **OneDrive**:
 
-1. Log into the virtual machine provided by your tenant provider as the local **Administrator** account with the password `Pa55w.rd`.
+1. Log into the virtual machine provided by your tenant provider.
 
-1. Open a **Microsoft Edge** browser and go to `[Onedrive](https://onedrive.live.com/login/)`. Close the **Welcome** screen, clear the **Search** box, then select the OneDrive icon to enter the credentials provided to log in.
+1. Open a **Microsoft Edge** browser and go to +++(https://onedrive.live.com/login/)+++. Close the **Welcome** screen, clear the **Search** box, then select the OneDrive icon to enter the credentials provided to log in.
 
 1. Select **Your OneDrive is ready**, then select **Create or upload > Files upload**.
 
