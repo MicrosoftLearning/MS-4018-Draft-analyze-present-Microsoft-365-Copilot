@@ -23,5 +23,5 @@ This course directs users to learn common prompt flows in Microsoft 365 apps inc
 - [Lab 1 - Build a presentation from start to finish with Copilot in PowerPoint](Instructions/Labs/Lab_01_Build_Presentation_PowerPoint.md)
 - [Lab 2 - Draft, improve, and share your document with Copilot in Word](Instructions/Labs/Lab_02_Write_Document_Word.md)
 - [Lab 3 - Manage collaboration from start to finish](Instructions/Labs/Lab_03_Collaborate_with_Teams.md)
-- [Lab 4 - Boost your productivity with data-driven decisions with Copilot in Excel](Instructions/Labs/Lab_04_Boost_Productivity_Excel.md)
+- [Lab 4 - Boost your productivity with data-driven decisions with Copilot in Excel](Instructions/Labs/Lab_04_Boost_productivity_Excel.md)
 - [Lab 5 - Ace your interview with Copilot Chat](Instructions/Labs/Lab_05_Unleash_Productivity_Copilot_Chat.md)
