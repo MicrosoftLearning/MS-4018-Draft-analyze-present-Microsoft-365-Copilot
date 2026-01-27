@@ -1,4 +1,4 @@
-# Lab 4 - Boost your productivity with data-driven decisions with Copilot in Excel
+# Lab 5 - Boost your productivity with data-driven decisions with Copilot in Excel
 
 Imagine you're a sales manager at Contoso. Your primary responsibility is to analyze sales data and identify trends that can help improve the company's performance. In this hands-on Lab, you'll use Copilot in Excel to explore and analyze various aspects of the sales data for Contoso's Chai products.
 
@@ -107,4 +107,4 @@ When working in your own environment, you would then send the email to your stak
 
 You now have hands-on experience using Copilot in Excel to analyze market trends, identify patterns, and generate valuable insights from your data. Continue trying new prompts in your Excel files to gain more practice.
 
-**End of Lab 4**
+**End of Lab**
