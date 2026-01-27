@@ -1,4 +1,4 @@
-# Lab 2 - Draft, improve, and share your document with Copilot in Word
+# Lab 3 - Draft, improve, and share your document with Copilot in Word
 
 Imagine you're a project manager tasked with creating a comprehensive project report for your company's new Mystic Spice Premium Chai Tea. In this Lab, you use Microsoft Word to draft the report, (optionally) import notes from OneNote, and share the draft with your team via Microsoft Teams or Microsoft Outlook for feedback and collaboration.
 
@@ -87,4 +87,4 @@ You can manually make adjustments to the text, or highlight the summary content 
 
 Save your document for future reference. You're ready to share for review, or you can use this document as the starting point for a PowerPoint presentation.
 
-**End of Lab 2**
+**End of Lab**
