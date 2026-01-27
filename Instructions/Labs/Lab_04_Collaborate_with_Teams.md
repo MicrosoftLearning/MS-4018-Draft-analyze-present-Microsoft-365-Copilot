@@ -1,4 +1,4 @@
-# Lab 3 - Manage collaboration from start to finish
+# Lab 4 - Manage collaboration from start to finish
 
 Imagine you're a manager at Contoso. Your team relies on effective communication to collaborate and achieve goals. You want to rally the team behind a new idea for the Contoso Connect product launch, and need to send a message to your team about how to incorporate this idea before the product launch deadline. Use Copilot to draft, rewrite, and adjust your message to ensure it's clear, concise, and professional.
 
@@ -59,4 +59,4 @@ After you've created your draft, you can continue to prompt Copilot assist you i
 
 By using Copilot in Team's capabilities, you can effortlessly draft, rewrite, and adjust messages, gather insights from team chats, and schedule meetings efficiently. Now, you can confidently use these tools to streamline your workflow and achieve your collaboration goals with ease.
 
-**End of Lab 3**
+**End of Lab**
