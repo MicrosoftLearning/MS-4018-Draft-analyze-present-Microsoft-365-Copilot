@@ -1,4 +1,4 @@
-# Lab 5 - Ace your interview with Copilot Chat
+# Lab 1 - Ace your interview with Copilot Chat
 
 Imagine you're interviewing for position at Contoso, a mid-sized media-driven company. You've been communicating with the hiring manager via email. Now, you want to prepare for the interview, learn more about the team you'll be working with, and draft answers to potential questions that you may be asked. This Lab guides you through the steps to ensure you're well-prepared and confident.
 
@@ -67,10 +67,7 @@ These answers are great, and you're feeling confident before your interview. Now
 
     Copilot generates a new Word document titled **FAQ Document**.
 
-1. Open this document to review.
-
-    > [!NOTE]
-    > If prompted, log in using the same credentials you provided when you logged in to OneDrive.
+1. Open this document to review. If prompted, log in using the same credentials you provided when you logged in to OneDrive.
 
 1. Enable editing to verify and updatae the document as necessary.
 
@@ -94,4 +91,4 @@ These answers are great, and you're feeling confident before your interview. Now
 
 1. Add your recipients and send your email.
 
-**End of Lab 5**
+**End of Lab**
