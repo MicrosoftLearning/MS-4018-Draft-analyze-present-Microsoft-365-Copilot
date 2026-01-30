@@ -11,7 +11,7 @@ Use Copilot Chat in Teams to gather some insights about the interviewer and thei
 
 1. Open Microsoft Teams by navigating to the following URL +++https://teams.microsoft.com+++.
 
-1. Select the **Copilot Chat** icon on the left side of the screen.
+1. Select the **Copilot** icon on the left side of the screen.
 
 1. Make sure the toggle at the top of the screen is set to **Web**.
 
