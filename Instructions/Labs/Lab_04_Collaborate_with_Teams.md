@@ -45,7 +45,7 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
 1. Select the **Copilot** icon from the **Home** ribbon to open the Copilot pane.
 
-1. Ask Copilot to suggest the best time for the meeting by entering the following prompt:
+1. Ask Copilot to help you draft an invite for the meeting by entering the following prompt:
 
     +++Draft a meeting invitation to discuss the upcoming product launch, review the project timeline, and assign tasks.+++
 
