@@ -53,7 +53,7 @@ You now want to schedule a meeting to brainstorm some feedback with your team. Y
 
     +++Rewrite this email in a professional tone.+++
 
-1. Review Copilot's suggestion and select to **Keep it**.
+1. Review Copilot's suggestion. You can then select to **Edit and send**.
 
 After you've created your draft, you can continue to prompt Copilot assist you in scheduling the meeting based on your availability next week. Copilot suggests several time slots. You can select the time that best works.  Copilot adds the meeting to your calendar. You can then access the meeting details from you calendar and invite attendees, turn on the Facilitator for the meeting, and allow Copilot to reschedule the meeting if conflicts arise.
 
