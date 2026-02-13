@@ -69,7 +69,7 @@ These answers are great, and you're feeling confident before your interview. Now
 
 1. Open this document to review. If prompted, log in using the same credentials you provided when you logged in to OneDrive.
 
-1. Enable editing to verify and updatae the document as necessary.
+1. Enable editing to verify and update the document as necessary.
 
 1. Select **File > Save As**. Browse and navigate to your OneDrive folder.
 
