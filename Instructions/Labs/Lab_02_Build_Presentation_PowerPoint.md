@@ -38,7 +38,7 @@ Since our audience includes individuals with varying levels of familiarity with 
 
 1. Return to the **Home** ribbon view.
 
-1. Open the Copilot pane, select **Web** grounded data, and enter the following prompt:
+1. Open the Copilot pane, select **Web** grounding icon, and enter the following prompt:
 
      +++Can you provide a brief history of chai tea?+++
 
