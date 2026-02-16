@@ -62,7 +62,7 @@ Let's see this transformation in action.
 
 1. Select the on-canvas **Copilot** icon to the left of the text.
 
-1. Select **Visualize as a table** from the menu. The result looks great, overall, but let's make sure there's a column for when the task is successfully completed.
+1. Select or type **Visualize as a table**. The result looks great, overall, but let's make sure there's a column for when the task is successfully completed.
 
 1. Type +++Add a third column, Task Completed, to the table.+++ in the Copilot dialog.
 
