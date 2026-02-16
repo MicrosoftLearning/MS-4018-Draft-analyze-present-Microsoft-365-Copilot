@@ -6,7 +6,7 @@ Imagine you're a manager at Contoso. Your team relies on effective communication
 
 1. Open Microsoft Teams by navigating to the following URL +++https://teams.cloud.microsoft+++.
 
-1. To start, create a new Team in your team's chat for this conversation. Select **New Team** from the Chat dropdown menu.
+1. To start, create a new Team in your team's chat for this conversation. Select **Create Team** from the Chat dropdown menu.
 
     - Add the Team:  +++People and Culture+++
     - Description: leave blank
