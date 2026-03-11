@@ -1,10 +1,17 @@
 ---
 lab:
-  title: 'Lab 5: Boost your productivity with data-driven decisions with Copilot in Excel'
-  description: 'Microsoft 365 Copilot – See how Copilot in Excel empowers you to explore and analyze sales data.'
-  level: 'Lab 100'
+  title: 'Lab 5: Boost your productivity with data-driven decisions with Copilot in
+    Excel'
+  description: Microsoft 365 Copilot – See how Copilot in Excel empowers you to explore
+    and analyze sales data.
+  level: Lab 100
   duration: '30'
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
 ---
+
 # Lab 5 - Boost your productivity with data-driven decisions with Copilot in Excel
 
 Imagine you're a sales manager at Contoso. Your primary responsibility is to analyze sales data and identify trends that can help improve the company's performance. In this hands-on Lab, you'll use Copilot in Excel to explore and analyze various aspects of the sales data for Contoso's Chai products.
