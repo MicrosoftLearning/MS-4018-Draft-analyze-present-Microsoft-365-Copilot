@@ -1,3 +1,16 @@
+---
+lab:
+  title: Follow along using sample data with Microsoft 365 Copilot
+  description: 'Throughout these labs, we''ll be crafting prompts for Microsoft 365
+    Copilot that reference the following files:'
+  duration: 26 minutes
+  level: 100
+  islab: true
+  primarytopics:
+  - Microsoft 365
+  - Microsoft 365 Copilot
+---
+
 # Follow along using sample data with Microsoft 365 Copilot
 
 Throughout these labs, we'll be crafting prompts for Microsoft 365 Copilot that reference the following files:
