@@ -1,10 +1,15 @@
 ---
 lab:
   title: 'Lab 3: Draft, improve, and share your document with Copilot in Word'
-  description: 'Microsoft 365 Copilot – Use Copilot in Word to create, edit, and share a document.'
-  level: 'Lab 100'
+  description: Microsoft 365 Copilot – Use Copilot in Word to create, edit, and share a document.
+  level: Lab 100
   duration: '30'
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
 ---
+
 # Lab 3 - Draft, improve, and share your document with Copilot in Word
 
 Imagine you're a project manager tasked with creating a comprehensive project report for your company's new Mystic Spice Premium Chai Tea. In this Lab, you use Microsoft Word to draft the report, convert text to a table for easier readability, and summarize your document to ensure clear, concise content.

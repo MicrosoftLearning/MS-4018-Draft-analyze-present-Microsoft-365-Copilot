@@ -1,9 +1,13 @@
 ---
 lab:
   title: 'Lab 2: Build a presentation from start to finish with Copilot in PowerPoint'
-  description: 'Microsoft 365 Copilot – Explore how Copilot in PowerPoint can be used to help you build a presentation from start to finish.'
-  level: 'Lab 100'
+  description: Microsoft 365 Copilot – Explore how Copilot in PowerPoint can be used to help you build a presentation from start to finish.
+  level: Lab 100
   duration: '30'
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
 ---
 
 # Lab 2 - Build a presentation from start to finish with Copilot in PowerPoint

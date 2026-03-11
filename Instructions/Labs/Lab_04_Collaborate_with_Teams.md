@@ -1,10 +1,15 @@
 ---
 lab:
   title: 'Lab 4: Manage collaboration from start to finish'
-  description: 'Microsoft 365 Copilot – Learn how Copilot in Outlook can help you manage collaboration with your team.'
-  level: 'Lab 100'
+  description: Microsoft 365 Copilot – Learn how Copilot in Outlook can help you manage collaboration with your team.
+  level: Lab 100
   duration: '30'
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
 ---
+
 # Lab 4 - Manage collaboration from start to finish
 
 Imagine you're a manager at Contoso. Your team relies on effective communication to collaborate and achieve goals. You want to rally the team behind a new idea for the Contoso Connect product launch, and need to send a message to your team about how to incorporate this idea before the product launch deadline. Use Copilot to draft, rewrite, and adjust your message to ensure it's clear, concise, and professional. Then, use Copilot in Outlook to schedule your meeting.

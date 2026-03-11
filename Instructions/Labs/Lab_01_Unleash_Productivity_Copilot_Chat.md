@@ -1,9 +1,13 @@
 ---
 lab:
   title: 'Lab 1: Ace your interview with Copilot Chat'
-  description: 'Microsoft 365 Copilot – Use Copilot Chat to prepare for an interview'
-  level: 'Lab 100'
+  description: Microsoft 365 Copilot – Use Copilot Chat to prepare for an interview
+  level: Lab 100
   duration: '30'
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
 ---
 
 # Lab 1 - Ace your interview with Copilot Chat
