@@ -28,7 +28,7 @@ To get an idea of market trends, you must first understand  the overall performa
 
 1. Open the sample file (Contoso Chai Tea market trends 2023.xlsx) you uploaded to your OneDrive.
 
-1. Select the dropdown menu from the **Copilot** icon on the **Home** tab. From there, select the **App Skills** option.
+1. Select the **Copilot** icon on the far right of the **Home** tab. 
 
 1. Enter the following prompt:
 
