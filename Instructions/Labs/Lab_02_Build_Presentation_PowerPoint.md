@@ -34,7 +34,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. If prompted, Copilot displays a series of clarifying questions. Select the number of slides, the desired tone, the target audience or whether to include visual data elements, selecting **Next** after each choice and **Confirm** after the last.
 
-1. Copilot generates slides and content based on the document. Review the slides in the slide panel.
+1. Copilot generates slides and content based on the document. Review the slides in the slide panel. The presentation may display in either the **Slide Sorter** or **Normal** view. To switch views, select the **View** tab.
 
 While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
