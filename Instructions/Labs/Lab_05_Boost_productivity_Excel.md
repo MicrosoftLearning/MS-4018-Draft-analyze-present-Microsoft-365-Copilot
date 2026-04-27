@@ -40,7 +40,7 @@ To get an idea of market trends, you must first understand  the overall performa
 
     Copilot creates a table containing an additional column that shows key patterns.
 
-1. Select **Insert to new sheet** to include this data in your Excel workbook.
+1. Select **+ Add to new sheet** to include this data in your Excel workbook.
 
 1. Review the table. When you're done, return to Sheet 1.
 
@@ -68,7 +68,7 @@ To optimize your product offerings, you need to compare the sales of different c
 
     +++Create a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month.+++
 
-1. Copilot displays the bar chart.  Note that Copilot also provides text insights in its response. Select **Insert to new sheet** to include the chart in your Excel workbook.
+1. Copilot displays the bar chart.  Note that Copilot also provides text insights in its response. Select **Add to new sheet** to include the chart in your Excel workbook.
 
 1. Once you've reviewed the bar chart results, return to Sheet 1.
 
@@ -86,7 +86,7 @@ Understanding the total sales is crucial for evaluating the success of your sale
 
     +++Calculate the total sales per quarter.+++
 
-1. Select **Insert to new sheet**.
+1. Select **Add to new sheet**.
 1. Review the total sales, then return to Sheet 1.
 
 #### Exercise 5 - Generate insights
