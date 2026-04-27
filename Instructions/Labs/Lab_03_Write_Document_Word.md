@@ -90,7 +90,7 @@ As you complete your document, you want to ensure that your key points are prese
 
     +++Summarize the Project Report Promotion Plan for Chai Tea in Latin America document. Highlight the top three points made.+++
 
-1. Review the generated summary, and select **Add to doc** (the plus sign) if you want to include the entire summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
+1. Review the generated summary, and select **Add to doc** (the plus sign below the output) if you want to include the entire summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
 
 > [!IMPORTANT]
 > The text Copilot generates is inserted at your cursor's location in the document. Make sure you have navigated to the end of the document before you select to insert the content.
