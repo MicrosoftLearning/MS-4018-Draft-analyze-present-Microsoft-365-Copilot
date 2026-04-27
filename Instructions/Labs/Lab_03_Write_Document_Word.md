@@ -35,7 +35,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
     +++Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource.+++
 
-1. Add the document reference to your prompt by manually entering a forward slash followed by the document name: **/Promotion Plan for Chai Tea in Latin America.docx**. Alternately, you can select **Add content** and the file from the dropdown list once it is available in OneDrive.
+1. Add the document reference to your prompt by manually entering a forward slash `/` to open the file search dialog, then search for and select **Promotion Plan for Chai Tea in Latin America.docx**. Alternatively, you can select **Add content** and the file from the dropdown list once it is available in OneDrive.
 
 1. Select the right arrow to submit your prompt and **Generate** the response.
 
@@ -43,7 +43,7 @@ Let's create a project report using the Market Analysis you've already gathered.
 
 1. As you're reviewing the content of your document, you may find that some text needs to be edited or rewritten. The Product Description section seems to be fairly short, and technical. Let's edit the text so it's more engaging for our readers.
 
-1. Highlight the paragraph, select the **Copilot** icon that appears to the left of the text.
+1. Highlight the paragraph, then select **Edit with Copilot** in the floating toolbar that appears.
 
 1. Select **Auto Rewrite** from the menu. Copilot generates several options. Review each, and select to:
 
@@ -66,17 +66,17 @@ Let's see this transformation in action.
 
 1. Place your cursor at the end of the document.
 
-1. Ask Copilot to +++Add a list of project milestones and their deadlines+++ using the on-canvas Copilot option. Select **Generate**.
+1. Ask Copilot to +++Add a list of project milestones and their deadlines+++ using the **Draft with Copilot** pencil icon. Select **Generate**.
 
 1. Select **Keep it** to add the section to your Project Plan.
 
-1. Highlight the list.
-
-1. Select the on-canvas **Copilot** icon to the left of the text.
+1. Highlight the list, then select **Edit with Copilot** in the floating toolbar that appears.
 
 1. Select or type **Visualize as a table**. The result looks great, overall, but let's make sure there's a column for when the task is successfully completed.
 
-1. Type +++Add a third column, Task Completed, to the table.+++ in the Copilot dialog.
+1. In the Copilot prompt box, enter the following prompt:
+
+    +++Add a third column, Task Completed, to the table.+++
 
 1. Select **Keep it** to insert the table into your document.
 
@@ -86,11 +86,11 @@ Let's see this transformation in action.
 
 As you complete your document, you want to ensure that your key points are presented clearly. A good way to do this is to see a summary of the document. Likewise, should you receive a large Word document that you don't have time to read in its entirety, the summary feature is key. Let's create a summary at the end of our document.
 
-1. Open the Copilot pane and enter the following prompt:
+1. From the **Home** tab, select **Copilot** to open the Copilot pane, then enter the following prompt:
 
     +++Summarize the Project Report Promotion Plan for Chai Tea in Latin America document. Highlight the top three points made.+++
 
-1. Review the generated summary, and select **Add to doc** (the plus sign) if you want to include the entire summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
+1. Review the generated summary, and select **Add to doc** (the plus sign below the output) if you want to include the entire summary in your document. You can also highlight any portion of the text, then copy and paste it into your document.
 
 > [!IMPORTANT]
 > The text Copilot generates is inserted at your cursor's location in the document. Make sure you have navigated to the end of the document before you select to insert the content.
