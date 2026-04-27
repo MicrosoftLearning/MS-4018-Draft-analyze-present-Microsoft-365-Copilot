@@ -56,7 +56,7 @@ Since our audience includes individuals with varying levels of familiarity with 
 
 1. Navigate to the first slide. On the **Home** tab, select the **New slide with Copilot** icon next to **New Slide**.
 
-1. In the copilot chat, add the following context:
+1. In the copilot chat pane, add the following context:
 
     +++the history of chai tea.+++
 
@@ -79,9 +79,7 @@ While Copilot includes images as it creates slides, you may want to add or edit 
     > [!NOTE]
     > Feel free to experiment with your own prompt to generate an image  you think would work best for the presentation. The more details you provide, the better.
 
-    Copilot creates and dispalys an image that matches your request.
-
-1. Copy and paste the new image to replace the default image on the History of chai tea slide.
+1. If prompted, Copilot asks where to place the image in the presentation. Select **History slide (slide 2)**, then select **Confirm**.
 
 #### Exercise 4 - Edit the text
 
