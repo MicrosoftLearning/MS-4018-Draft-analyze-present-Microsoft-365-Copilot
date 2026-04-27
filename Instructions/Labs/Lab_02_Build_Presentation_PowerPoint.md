@@ -26,19 +26,15 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
 1. Open PowerPoint from your browser by opening the Edge browser and entering +++https://powerpoint.new+++.
 
-1. Select the **Copilot** on-screen option, located on the top-left corner of the empty slide, then select **Create a new presentation with file** from the menu to generate a draft presentation.
+1. On the **Home** tab of the ribbon, select **Copilot** (on the right side), then select **Create a presentation about topic** from the Copilot pane generate a draft presentation.
 
-1. Select the **Promotion Plan for Chai Tea in Latin America.docx** file from the drop down list. Alternately, type the first few letters of the file name after the forward slash that appears in the dialog. If the file name doesn't populate (it may take time for your files to sync before they're available), select **Reference files** (paperclip icon) and select the file.
+1. In the Copilot pane, select the **+** button, then select the **Promotion Plan for Chai Tea in Latin America.docx** file from the list. Alternatively, type `/` followed by the first few letters of the file name in the prompt field to search for it. If the file doesn't appear, wait a moment for your files to sync, refresh the browser, then try again.
 
-1. Select the right arrow **(Send)** button to submit your prompt.
+1. Select the **Send** button to submit your prompt.
 
-    Copilot displays a presentation outline showing the potential slides and bullet points to be included on each slide.
+1. If prompted, Copilot displays a series of clarifying questions. Select the number of slides, the desired tone, the target audience or whether to include visual data elements, selecting **Next** after each choice and **Confirm** after the last.
 
-1. Review the suggested topic and select **Generate slides** to continue. Copilot generates slides and content for each. The presentation may display results in either the **Slide Sorter** or **Editing** (**Normal**) view.
-
-    Copilot starts drafting the structure for the proposed presentation. You can add, remove or reorder the proposed topics. You can optionally also select **Image Settings** to choose the images Copilot uses to create the slides.
-
-1. Review the slides and select **Keep it** to continue.
+1. Copilot generates slides and content based on the document. Review the slides in the slide panel. The presentation may display in either the **Slide Sorter** or **Normal** view. To switch views, select the **View** tab.
 
 While this is a great start, you want to personalize the presentation a bit more for your delivery. Let's see how to improve the content.
 
@@ -46,11 +42,11 @@ While this is a great start, you want to personalize the presentation a bit more
 
 Since our audience includes individuals with varying levels of familiarity with our company and its offerings, let's add a slide that provides a brief history of chai tea.
 
-1. Let's first change the view in PowerPoint, if necessary. Select **View -> Editing view** (**Normal**).
+1. If necessary, change the view to **Normal**. On the **View** tab, select **Normal**.
 
 1. Return to the **Home** ribbon view.
 
-1. Open the Copilot pane, select **Web** grounding icon, and enter the following prompt:
+1. In the Copilot pane, enter the following prompt:
 
      +++Can you provide a brief history of chai tea?+++
 
@@ -58,13 +54,15 @@ Since our audience includes individuals with varying levels of familiarity with 
 
      Copilot Chat is great for asking questions, summarizing or researching (web/work) information, but it does not have the capability to edit/shape our presentation.
 
-1. Let's ask Copilot to help create a slide about the history of Chai Tea. Go to the first slide, select the **Copilot** icon (top-left corner of any slide) and select **Add a slide**.
+1. Navigate to the first slide. On the **Home** tab, select the **New slide with Copilot** icon next to **New Slide**.
 
-1. In the dialog that appears, add the following context:
+1. In the copilot chat pane, add the following context:
 
     +++the history of chai tea.+++
 
-1. Once the slide is generated, select to **Keep it**.
+1. If prompted, Copilot displays clarifying questions about the slide content. Select your preferred option for each question, then select **Confirm** after the last.
+
+1. Review the slide Copilot generated.
 
 Now you've added depth to your presentation, and it's a great way to increase interest from your meeting participants. Let's look at the presentation now, and see how we can make it even more powerful.
 
@@ -81,9 +79,7 @@ While Copilot includes images as it creates slides, you may want to add or edit 
     > [!NOTE]
     > Feel free to experiment with your own prompt to generate an image  you think would work best for the presentation. The more details you provide, the better.
 
-    Copilot creates and dispalys an image that matches your request.
-
-1. Copy and paste the new image to replace the default image on the History of chai tea slide.
+1. If prompted, Copilot asks where to place the image in the presentation. Select **History slide (slide 2)**, then select **Confirm**.
 
 #### Exercise 4 - Edit the text
 
@@ -101,7 +97,9 @@ As you're reviewing the presentation, you may decide the text Copilot generated 
 
 As you're reviewing the presentation, you may find that the topics in your presentation need to be more clearly identified. You can use Copilot in PowerPoint to inject this clarity.
 
-1. In the Copilot pane, select the **Work** tab, then enter the following prompt:
+1. In the Copilot chat pane, select the mode dropdown and select
+   **Chat only**. Select the **Work** tab, then enter the following
+   prompt:
 
     +++Give me tips to improve my presentation, both in general and slide-by-slide.+++
 
