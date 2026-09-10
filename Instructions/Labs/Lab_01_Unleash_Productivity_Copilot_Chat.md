@@ -1,15 +1,29 @@
+---
+lab:
+  title: 'Lab 1: Ace your interview with Copilot Chat'
+  description: Microsoft  Copilot – Use Copilot Chat to prepare for an interview
+  level: Lab 200
+  duration: '30'
+  islab: true
+  status: 'released'
+  targetDate: 2026-12-31
+  primarytopics:
+    - Microsoft 365
+    - Microsoft Copilot
+---
+
 # Lab 1 - Ace your interview with Copilot Chat
 
-Imagine you're interviewing for an internal position at your company. You've been communicating with the hiring team via email. Now you want to prepare for the interview, learn more about the team you'll be working with, and draft answers to potential questions. This lab guides you through each step using Copilot Chat in the Microsoft 365 Copilot app.
+Imagine you're interviewing for an internal position at your company. You've been communicating with the hiring team via email. Now you want to prepare for the interview, learn more about the team you'll be working with, and draft answers to potential questions. This lab guides you through each step using Copilot Chat in the Microsoft Copilot app.
 
 > [!NOTE]
-> The steps in this lab use the Microsoft 365 Copilot app at [**m365.cloud.microsoft**](https://m365.cloud.microsoft). Sign in with your work account and follow along using your own resources.
+> The steps in this lab use the Microsoft Copilot app at [**m365.cloud.microsoft**](https://m365.cloud.microsoft). Sign in with your work account and follow along using your own resources.
 
 #### Exercise 1 - Research the interviewer
 
 Use Copilot Chat to gather information about the interviewer and their role at the company.
 
-1. Open the **Microsoft 365 Copilot** app by navigating to +++https://m365copilot.com+++ and signing in with your work account.
+1. Open the **Microsoft Copilot** app by navigating to +++https://m365copilot.com+++ and signing in with your work account.
 
 1. Select **New chat** and start a conversation in the chat area.
 

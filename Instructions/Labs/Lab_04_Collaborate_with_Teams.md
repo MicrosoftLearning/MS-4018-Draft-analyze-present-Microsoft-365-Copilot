@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Lab 4: Manage collaboration from start to finish'
+  description: Microsoft Copilot – Use Copilot in Teams and Outlook to prepare for and manage team collaboration.
+  level: Lab 200
+  duration: '30'
+  islab: true
+  status: 'released'
+  targetDate: 2026-12-31
+  primarytopics:
+    - Microsoft 365
+    - Microsoft Copilot
+---
+
 # Lab 4 - Manage collaboration from start to finish
 
 Imagine you're a product manager at Contoso. Your team is preparing for the Contoso Connect product launch. You need to align the team on priorities, build context from channel conversations, and schedule a structured planning meeting. In this lab, you use Copilot in Teams and Outlook to prepare before the meeting ever starts.
