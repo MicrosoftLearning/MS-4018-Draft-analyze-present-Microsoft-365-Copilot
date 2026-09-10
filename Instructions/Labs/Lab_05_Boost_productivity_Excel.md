@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Lab 5: Boost your productivity with data-driven decisions with Copilot in Excel'
+  description: Microsoft Copilot – Use Copilot in Excel to explore data, analyze trends, and generate insights.
+  level: Lab 100
+  duration: '30'
+  islab: true
+  status: 'released'
+  targetDate: 2026-12-31
+  primarytopics:
+    - Microsoft 365
+    - Microsoft Copilot
+---
+
 # Lab 5 - Boost your productivity with data-driven decisions with Copilot in Excel
 
 Imagine you're a sales manager at Contoso. Your primary responsibility is to analyze sales data and identify trends that can help improve the company's performance. In this hands-on lab, you'll use Copilot in Excel to explore and analyze various aspects of the sales data for Contoso's Chai products.
@@ -9,7 +23,7 @@ You'll start by getting an overview of the data and identifying key metrics. Nex
 
 ### Sample file
 
-Throughout this lab, you craft prompts for Microsoft 365 Copilot that reference this file. Download and save the following file to your OneDrive folder before you continue.
+Throughout this lab, you craft prompts for Microsoft Copilot that reference this file. Download and save the following file to your OneDrive folder before you continue.
 
 [Contoso Chai Tea market trends.xlsx](https://go.microsoft.com/fwlink/?linkid=2268822)
 

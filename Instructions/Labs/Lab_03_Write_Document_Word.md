@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Lab 3: Draft, improve, and share your document with Copilot in Word'
+  description: Microsoft Copilot – Use Copilot in Word to create, edit, review, and share a document.
+  level: Lab 200
+  duration: '30'
+  islab: true
+  status: 'released'
+  targetDate: 2026-12-31
+  primarytopics:
+    - Microsoft 365
+    - Microsoft Copilot
+---
+
 # Lab 3 - Draft, improve, and share your document with Copilot in Word
 
 Imagine you're a project manager tasked with creating a comprehensive project report for your company's new Mystic Spice Premium Chai Tea. In this lab, you use Copilot in Word to draft, edit, and refine the report, then use the Writing Coach agent to review the document before sharing.
@@ -56,7 +70,7 @@ While the Project Objectives are listed, converting them into a table allows lea
 
 Before sharing your report, use the Writing Coach agent to review the quality of your writing.
 
-1. Open a browser and navigate to +++https://m365.cloud.microsoft+++ to open **Microsoft 365 Copilot**.
+1. Open a browser and navigate to +++https://m365.cloud.microsoft+++ to open **Microsoft Copilot**.
 
 1. In the **Agents** panel, select **Writing Coach**. If it doesn't appear, select **More agents**, then in the search bar, type `Writing Coach`, select the agent, and select **Add** to add it.
 

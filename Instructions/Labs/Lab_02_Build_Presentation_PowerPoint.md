@@ -1,3 +1,18 @@
+---
+lab:
+  title: 'Lab 2: Build a presentation from start to finish with Copilot in PowerPoint'
+  description: Microsoft Copilot – Explore how Copilot in PowerPoint can help you build a presentation from start to finish.
+  level: Lab 200
+  duration: '30'
+  islab: true
+  status: 'released'
+  targetDate: 2026-12-31
+  primarytopics:
+    - Microsoft 365
+    - Microsoft Copilot
+---
+
+
 # Lab 2 - Build a presentation from start to finish with Copilot in PowerPoint
 
 Imagine you're a senior marketing manager at Contoso. Your team is preparing for an executive meeting in which you need to present the company's strategy for a new Chai Tea product line to be sold in Latin America. Your audience includes regional vice presidents and a CFO who expects data-backed recommendations. You have a business plan and a separate market research report to draw from. Your goal is to produce a polished, data-informed presentation efficiently without starting from scratch.
@@ -18,7 +33,7 @@ Throughout this lab, you craft prompts that reference these files. Download both
 
 Before you open PowerPoint, use Idea Coach to define your narrative. A focused planning prompt now produces a stronger first draft and requires less revision later.
 
-1. Open the **Microsoft 365 Copilot** app by navigating to +++https://m365.cloud.microsoft+++. Select **Idea Coach** from the left navigation pane. If it doesn't appear, select **More agents**, then in the search bar, type `Idea Coach`, select the agent, and select **Add** to add it.
+1. Open the **Microsoft Copilot** app by navigating to +++https://m365.cloud.microsoft+++. Select **Idea Coach** from the left navigation pane. If it doesn't appear, select **More agents**, then in the search bar, type `Idea Coach`, select the agent, and select **Add** to add it.
 
 1. In the **Message Idea Coach** box, enter the following prompt:
 
