@@ -1,10 +1,10 @@
 ---
-title: Exercise Instructions
+title: MS-4019 Lab Exercises
 permalink: index.html
 layout: home
 ---
 
-# MS-4018: Draft, analyze, and present with Microsoft 365 Copilot
+This page lists exercises associated with Microsoft skilling content on [Microsoft Learn](https://learn.microsoft.com)
 
 ## Course Description
 
@@ -17,12 +17,17 @@ This course directs users to learn common prompt flows in Microsoft 365 apps inc
     - Microsoft 365 Copilot Chat is available at no extra cost for Microsoft 365 business and enterprise customers.
     - To purchase Microsoft 365 Copilot, customers must have a qualifying Microsoft 365 plan for enterprise or business. For more information, see the eligibility prerequisites question in the FAQ section of the following sites: Microsoft 365 Copilot for [enterprise](https://www.microsoft.com/en-us/microsoft-365-copilot/enterprise#FAQ) or [business](https://www.microsoft.com/en-us/microsoft-365-copilot/business#FAQ).
 
-## Exercises
+{% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
+{% for activity in labs  %}
+{% if activity.lab.title %}
+### [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }})
 
-- [Setup](Instructions/Labs/Lab_00_setup.md)
-- [Lab 1 - Ace your interview with Copilot Chat](Instructions/Labs/Lab_01_Unleash_Productivity_Copilot_Chat.md)
-- [Lab 2 - Build a presentation from start to finish with Copilot in PowerPoint](Instructions/Labs/Lab_02_Build_Presentation_PowerPoint.md)
-- [Lab 3 - Draft, improve, and share your document with Copilot in Word](Instructions/Labs/Lab_03_Write_Document_Word.md)
-- [Lab 4 - Manage collaboration from start to finish](Instructions/Labs/Lab_04_Collaborate_with_Teams.md)
-- [Lab 5 - Boost your productivity with data-driven decisions with Copilot in Excel](Instructions/Labs/Lab_05_Boost_productivity_Excel.md)
 
+{% if activity.lab.level %}**Level**: {{activity.lab.level}} \| {% endif %}{% if activity.lab.duration %}**Duration**: {{activity.lab.duration}}{% endif %}
+
+{% if activity.lab.description %}
+*{{activity.lab.description}}*
+{% endif %}
+<hr>
+{% endif %}
+{% endfor %}
