@@ -23,35 +23,37 @@ Imagine you're a product manager at Contoso. Your team is preparing for the Cont
 
 Before scheduling the meeting, you want to share context and set expectations with your team in the project channel.
 
-1. Open Microsoft Teams by navigating to +++https://teams.cloud.microsoft+++.
+1. Open Microsoft Teams by navigating to `https://teams.cloud.microsoft`.
 
 1. If the **Get to know Teams** dialog appears, select **Get Started** and close the dialog.
 
 1. In **Chat**, select **See all your teams**.
 
 1. Select **Create team**, and configure the new team as follows:
-    - Team name: +++Contoso Connect Launch+++
+    - Team name: `Contoso Connect Launch`
     - Description: leave blank
     - Team type and sensitivity: **Private**, **None**
-    - First channel name: +++Launch Planning+++
+    - First channel name: `Launch Planning`
 
-1. Select **Create**, then select **Skip** when prompted to add members.
+2. Select **Create**, then select **Skip** when prompted to add members.
 
-1. Select **Post in channel** to open the message composer in the **Launch Planning** channel.
+3. Select **Post in channel** to open the message composer in the **Launch Planning** channel.
 
-1. Paste the following text into the message box:
+4. Paste the following text into the message box:
 
-    +++Hi team! As we gear up for the Contoso Connect product launch, I want to make sure we're all aligned on priorities. I have a few ideas to share and I'd love to hear your thoughts on what will resonate most with our customers.+++
+    ```prompt
+    Hi team! As we gear up for the Contoso Connect product launch, I want to make sure we're all aligned on priorities. I have a few ideas to share and I'd love to hear your thoughts on what will resonate most with our customers.
+    ```
 
-1. Before posting, select the Pen (**Rewrite with Copilot**) icon below the message box.
+5. Before posting, select the Pen (**Rewrite with Copilot**) icon below the message box.
 
-1. Select **Rewrite** to generate an improved version. Use the left and right arrows to review alternate versions.
+6. Select **Rewrite** to generate an improved version. Use the left and right arrows to review alternate versions.
 
-1. Select **Adjust**, then under **Make it sound** choose **Enthusiastic** to change the tone of the message.
+7. Select **Adjust**, then under **Make it sound** choose **Enthusiastic** to change the tone of the message.
 
-1. Copilot provides each update as a separate version. Use the left and right arrows to review the versions, and select the one you prefer.
+8. Copilot provides each update as a separate version. Use the left and right arrows to review the versions, and select the one you prefer.
 
-1. Select **Replace**, and then select **Post** to publish the message.
+9. Select **Replace**, and then select **Post** to publish the message.
 
 #### Exercise 2 - Build channel context and summarize the thread
 
@@ -59,25 +61,29 @@ Channel Agent can summarize a channel thread to help you catch up on what was di
 
 1. With the **Launch Planning** channel still open, post two or three additional messages to build out the thread. For example:
 
-    - +++One idea is running a live demo event for our top enterprise customers.+++
-    - +++Early access pricing worked well for our last launch — we should revisit that.+++
-    - +++I'll reach out to marketing about the collateral timeline. Can someone check on demo environment availability?+++
+    - `One idea is running a live demo event for our top enterprise customers.`
+    - `Early access pricing worked well for our last launch — we should revisit that.`
+    - `I'll reach out to marketing about the collateral timeline. Can someone check on demo environment availability?`
 
-1. After posting the messages, select the **Open agents and bots** icon at the top-right of the channel.
+2. After posting the messages, select the **Open agents and bots** icon at the top-right of the channel.
 
-1. In the **Agents and bots** pane, next to **Channel Agent**, select **Add**.
+3. In the **Agents and bots** pane, next to **Channel Agent**, select **Add**.
 
-1. In the Channel Agent post, select **Ask me a question**.
+4. In the Channel Agent post, select **Ask me a question**.
 
-1. Enter the following prompt:
+5. Enter the following prompt:
 
-    +++What ideas and open questions came up in this thread?+++
+    ```prompt
+    What ideas and open questions came up in this thread?
+    ```
 
-1. Review the summary. Select a numbered citation to view the source message in the channel.
+6. Review the summary. Select a numbered citation to view the source message in the channel.
 
-1. Enter a follow-up prompt:
+7. Enter a follow-up prompt:
 
-    +++Create a short list of discussion topics I could use as a meeting agenda.+++
+    ```prompt
+    Create a short list of discussion topics I could use as a meeting agenda.
+    ```
 
     Keep this list handy. You'll use it in the next exercise.
 
@@ -85,17 +91,19 @@ Channel Agent can summarize a channel thread to help you catch up on what was di
 
 Now you'll create the meeting invite in Outlook, add an agenda, and turn on Facilitator so the meeting is set up to run effectively.
 
-1. Open Microsoft Outlook from your browser by navigating to +++https://outlook.office.com+++.
+1. Open Microsoft Outlook from your browser by navigating to `https://outlook.office.com`.
 
 1. Open **Calendar** and select **New event**.
 
-1. Add a title such as +++Contoso Connect Launch Planning+++ and set a time for later today or tomorrow.
+1. Add a title such as `Contoso Connect Launch Planning` and set a time for later today or tomorrow.
 
 1. Make sure **Teams meeting** is toggled on.
 
 1. In the meeting description, type a short agenda using the topics Channel Agent surfaced in Exercise 2. For example:
 
-    +++Agenda: Customer engagement ideas (10 min), Launch timeline review (15 min), Demo environment check (5 min), Task assignments (10 min), Wrap-up (5 min)+++
+    ```prompt
+    Agenda: Customer engagement ideas (10 min), Launch timeline review (15 min), Demo environment check (5 min), Task assignments (10 min), Wrap-up (5 min)
+    ```
 
     > [!TIP]
     > You can also let Copilot draft this for you. Select the Copilot icon in the upper-right corner of the New event window, and enter: *Draft a meeting description for a product launch planning session covering customer engagement ideas, timeline review, and task assignments.*
@@ -123,11 +131,15 @@ With the event created, use Copilot to review context and get ready before you j
 
 1. Select one of the suggested prompts, or enter your own in the Copilot chat pane:
 
-    +++What should I know about the agenda or attendees before this meeting?+++
+    ```prompt
+    What should I know about the agenda or attendees before this meeting?
+    ```
 
 1. Enter a follow-up prompt:
 
-    +++Draft a brief opening statement I can use to kick off the meeting.+++
+    ```prompt
+    Draft a brief opening statement I can use to kick off the meeting.
+    ```
 
 1. Review the response. Notice how Copilot draws on the meeting title, description, and available context to generate a relevant result.
 

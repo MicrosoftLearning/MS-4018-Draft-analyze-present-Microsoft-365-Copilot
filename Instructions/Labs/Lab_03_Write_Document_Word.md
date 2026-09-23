@@ -26,13 +26,15 @@ Throughout this lab, you craft prompts that reference this file. Download it and
 
 Let's create a project report using the Market Analysis you've already gathered. Then, we can edit this file to get the content we need for our report.
 
-1. Open a new Word document from your browser by entering +++https://word.cloud.microsoft/new+++.
+1. Open a new Word document from your browser by entering `https://word.cloud.microsoft/new`.
 
 1. Select the on-canvas **Describe what you'd like to draft with Copilot** prompt box at the top of the blank document.
 
 1. Enter the following prompt:
 
-    +++Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource.+++
+    ```prompt
+    Create a project report that includes an executive summary, introduction, product description, project objectives, and discussion. Use the linked document as a content resource.
+    ```
 
 1. Add the document reference by typing a forward slash followed by the document name: **/Market Analysis Report for Mystic Spice Premium Chai Tea.docx**. Select it from the drop-down list, or select **Files** to browse for the file.
 
@@ -48,7 +50,9 @@ After reviewing your draft, you may find sections that need adjustment. The Prod
 
 1. Enter the following prompt:
 
-    +++Rewrite the Product Description section to be more detailed and engaging for a senior business audience. Keep the tone professional.+++
+    ```prompt
+    Rewrite the Product Description section to be more detailed and engaging for a senior business audience. Keep the tone professional.
+    ```
 
 1. Review the rewritten text. Select **Done** to replace the original text with the revised version.
 
@@ -60,7 +64,9 @@ While the Project Objectives are listed, converting them into a table allows lea
 
 1. Enter the following prompt in the Copilot pane:
 
-    +++Turn the Project Objectives section into a table with columns for objectives, rationale, success metrics, target channels, and priority.+++
+    ```prompt
+    Turn the Project Objectives section into a table with columns for objectives, rationale, success metrics, target channels, and priority.
+    ```
 
 1. Review the generated table and select **Done** to insert the table.
 
@@ -70,7 +76,7 @@ While the Project Objectives are listed, converting them into a table allows lea
 
 Before sharing your report, use the Writing Coach agent to review the quality of your writing.
 
-1. Open a browser and navigate to +++https://m365.cloud.microsoft+++ to open **Microsoft Copilot**.
+1. Open a browser and navigate to `https://m365.cloud.microsoft` to open **Microsoft Copilot**.
 
 1. In the **Agents** panel, select **Writing Coach**. If it doesn't appear, select **More agents**, then in the search bar, type `Writing Coach`, select the agent, and select **Add** to add it.
 
@@ -78,7 +84,9 @@ Before sharing your report, use the Writing Coach agent to review the quality of
 
 1. Enter a focused question in Writing Coach, then paste the text from your Word document:
 
-    +++Review this text for clarity and tone. Suggest specific improvements: [paste text]+++
+    ```prompt
+    Review this text for clarity and tone. Suggest specific improvements: [paste text]
+    ```
 
 1. Review the feedback and apply the changes in your Word document.
 

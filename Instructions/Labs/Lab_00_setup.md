@@ -28,7 +28,7 @@ Follow the steps below to upload all files needed to **OneDrive**:
 
 1. Log into the virtual machine provided by your tenant provider.
 
-1. Open a **Microsoft Edge** browser and go to +++https://onedrive.live.com/login/+++. Enter the credentials provided to log in.
+1. Open a **Microsoft Edge** browser and go to `https://onedrive.live.com/login/`. Enter the credentials provided to log in.
 
 1. If prompted to stay signed in, select **Yes**.
 

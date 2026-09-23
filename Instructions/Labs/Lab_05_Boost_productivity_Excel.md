@@ -39,11 +39,15 @@ To get an idea of market trends, you must first understand the overall performan
 
 1. Enter and submit the following prompt in the Copilot pane:
 
-    +++Summarize the dataset and provide an overview of the key metrics.+++
+    ```prompt
+    Summarize the dataset and provide an overview of the key metrics.
+    ```
 
     Copilot may create a new sheet with a detailed set of important takeaways, essentially an executive summary of the data. The response highlights patterns and interpretations of the data and may suggest potential next steps. From this response, you can prompt Copilot to:
 
-    +++Create a new sheet with a table showing the key patterns in the data.+++
+    ```prompt
+    Create a new sheet with a table showing the key patterns in the data.
+    ```
 
     Copilot creates a table that summarizes key patterns in the data.
 
@@ -57,7 +61,9 @@ As a sales manager, you need to identify trends in the sales data to make inform
 
 1. Enter and submit the following prompt:
 
-    +++Create a new sheet with a line chart of Total Chai Sales (units) over the months.+++
+    ```prompt
+    Create a new sheet with a line chart of Total Chai Sales (units) over the months.
+    ```
 
 1. Review the chart of Total Chai Sales (units) over the months.
 
@@ -69,13 +75,17 @@ To optimize your product offerings, you need to compare the sales of different c
 
 1. Enter and submit the following prompt:
 
-    +++Create a new sheet with a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month.+++
+    ```prompt
+    Create a new sheet with a bar chart comparing Artisanal Chai Sales (units) and Premade Chai Sales (units) for each month.
+    ```
 
     Copilot creates a new sheet and inserts the chart in your Excel workbook.
 
 1. Summer months often show wide variance in sales. Enter and submit the following prompt to compare product performance:
 
-    +++Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.+++
+    ```prompt
+    Summarize the total sales (units) for Artisanal Chai and Premade Chai over the summer.
+    ```
 
 1. Copilot may ask for clarification to better define "summer." Enter your preference, then review the results. Keep the Copilot pane open for the next exercise.
 
@@ -85,7 +95,9 @@ Copilot in Excel with Python lets you run statistical forecasts without writing 
 
 1. In the Copilot pane, enter and submit the following prompt:
 
-    +++Predict next quarter's Artisanal and Premade Chai sales using the best forecasting method based on historical performance, and include model diagnostics.+++
+    ```prompt
+    Predict next quarter's Artisanal and Premade Chai sales using the best forecasting method based on historical performance, and include model diagnostics.
+    ```
 
     Copilot generates Python code, executes it on the grid, and returns a new forecast sheet with a supporting chart.
 
@@ -97,7 +109,7 @@ Copilot in Excel with Python lets you run statistical forecasts without writing 
 
 The Analyst agent lets you ask questions about your data in a chat interface. In this exercise, you attach the sample file and ask a cross-metric question to see how the agent surfaces patterns that connect to your in-Excel analysis.
 
-1. Open a browser and navigate to +++https://m365.cloud.microsoft+++.
+1. Open a browser and navigate to `https://m365.cloud.microsoft`.
 
 1. In the left navigation, select the **Analyst** agent.
 
@@ -105,7 +117,9 @@ The Analyst agent lets you ask questions about your data in a chat interface. In
 
 1. Enter and submit the following prompt:
 
-    +++Compare Artisanal Chai and Premade Chai sales performance across the year and identify which product showed stronger growth.+++
+    ```prompt
+    Compare Artisanal Chai and Premade Chai sales performance across the year and identify which product showed stronger growth.
+    ```
 
 1. Review the response. Notice how the Analyst agent surfaces comparisons and patterns from the same dataset you analyzed in Excel. This chat-based approach is especially useful when you're working across multiple files before building your workbook.
 
@@ -115,7 +129,9 @@ Summarize the key insights from your analysis. These insights help you make data
 
 1. In the opened Copilot Analyst agent pane, enter and submit the following prompt:
 
-    +++Provide a summary of the top 5 key insights from the analysis of the Contoso Chai Tea market trends data.+++
+    ```prompt
+    Provide a summary of the top 5 key insights from the analysis of the Contoso Chai Tea market trends data.
+    ```
 
 1. Review the summary. You can use this text to get your team up to speed more quickly.
 
