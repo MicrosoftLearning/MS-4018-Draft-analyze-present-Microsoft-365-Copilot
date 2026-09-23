@@ -126,8 +126,8 @@ With the event created, use Copilot to review context and get ready before you j
 
 1. Look for the **Prepare for this meeting** section near the top of the event form. Select **Show more** to see the summary Copilot has assembled from related emails, documents, and chat history.
 
-   > [!NOTE]
-   > In a fresh environment with no prior email history, chat activity, or shared files connected to the meeting, the **Prepare for this meeting** section may not appear or may display limited results. This is expected behavior. Copilot generates meeting preparation content only when sufficient context is available. If the section isn't displayed, consider this lab complete.
+    > [!NOTE]
+    > In a fresh environment with no prior email history, chat activity, or shared files connected to the meeting, the **Prepare for this meeting** section may not appear or may display limited results. This is expected behavior. Copilot generates meeting preparation content only when sufficient context is available. If the section isn't displayed, consider this lab complete.
 
 1. Select one of the suggested prompts, or enter your own in the Copilot chat pane:
 

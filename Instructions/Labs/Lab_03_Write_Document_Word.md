@@ -90,8 +90,8 @@ Before sharing your report, use the Writing Coach agent to review the quality of
 
 1. Review the feedback and apply the changes in your Word document.
 
-   > [!NOTE]
-   > Writing Coach addresses one question at a time. Ask one focused question per prompt for the most useful feedback.
+    > [!NOTE]
+    > Writing Coach addresses one question at a time. Ask one focused question per prompt for the most useful feedback.
 
 1. Verify that your changes are saved. Your document is ready to share for review or use as source material for a PowerPoint presentation.
 

@@ -33,8 +33,8 @@ Use Copilot Chat to gather information about the interviewer and their role at t
     Find information about [Interviewer's Name] and their role at [Company Name].
     ```
 
-   > [!NOTE]
-   > Replace `[Interviewer's Name]` with the name of the person who will be interviewing you, and `[Company Name]` with the name of your company.
+    > [!NOTE]
+    > Replace `[Interviewer's Name]` with the name of the person who will be interviewing you, and `[Company Name]` with the name of your company.
 
 1. Review Copilot's response and note any relevant background, including their area of focus, recent projects, or public statements.
 
@@ -48,8 +48,8 @@ Research the department you're applying to so you can speak to its priorities an
     Provide an overview of [department name] at [Company Name]. What are their current focus areas or recent initiatives?
     ```
 
-   > [!TIP]
-   > Instead of prompting Copilot Chat directly, you can try the **Researcher** agent for this step. In the left navigation pane, select **Researcher**, then enter: *Research [Company Name]'s [department name]. Summarize their current priorities, recent news, and any publicly available strategic initiatives.* Researcher runs a multi-step research task across the web, synthesizes findings from multiple sources, and returns a more comprehensive briefing than a single-prompt response. Compare the two outputs to see the difference in depth.
+    > [!TIP]
+    > Instead of prompting Copilot Chat directly, you can try the **Researcher** agent for this step. In the left navigation pane, select **Researcher**, then enter: *Research [Company Name]'s [department name]. Summarize their current priorities, recent news, and any publicly available strategic initiatives.* Researcher runs a multi-step research task across the web, synthesizes findings from multiple sources, and returns a more comprehensive briefing than a single-prompt response. Compare the two outputs to see the difference in depth.
 
 1. Review the response. Identify two or three points you can reference in your interview answers.
 
@@ -65,8 +65,8 @@ Use Copilot to anticipate the questions you're likely to be asked, so you can pr
     Based on this department's focus areas, generate a list of likely interview questions for a [job title] role.
     ```
 
-   > [!NOTE]
-   > Replace `[job title]` with the title of the role you're applying for.
+    > [!NOTE]
+    > Replace `[job title]` with the title of the role you're applying for.
 
 1. Review the list of questions.
 
@@ -115,8 +115,8 @@ After the interview, use Copilot Chat in the Outlook side pane to draft a thank 
    Draft a brief thank you note to [Interviewer's Name] following our interview today for the [job title] role at [Company Name]. Keep it professional and genuine, and limit it to three short paragraphs.
     ```
 
-   > [!NOTE]
-   > Replace `[Interviewer's Name]` with the name of the person who interviewed you, `[job title]` with the title of the role you applied for, and `[Company Name]` with the name of your company.
+    > [!NOTE]
+    > Replace `[Interviewer's Name]` with the name of the person who interviewed you, `[job title]` with the title of the role you applied for, and `[Company Name]` with the name of your company.
 
 1. Review the draft. Adjust the tone and any specific details to reflect the actual conversation.
 
